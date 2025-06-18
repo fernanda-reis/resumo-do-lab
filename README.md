@@ -20,11 +20,11 @@ Onde o usuário paga pelo que utilizar, possibilitando melhor previsão de custo
 
 ## lab 2.
 ### Benefícios da nuvem
-- 1. Alta disponibilidade: Garantia de disponibilidade através do SLA (Service Level Agreement), com acordos de uptime e downtime.
-  2. Escalabilidade: Possibilidade de escalar recursos de acordo com a demanda.
-  3. Elasticidade: Possibilidade de expandir recursos de acordo com a demanda.
-  4. Confiabilidade: Devido ao design descentralizado da nuvem, recursos podem ser implantados em diversos regiões, garantindo menores riscos.
-  5. Previsibilidade: Avanços previsíveis no desempenho e custo, influenciados pelo Microsoft Azure Well-Architected Framework.
-  6. Segurança: A nuvem oferece ferramentas de segurança, porém a implementação de muitas delas serão de responsabilidade do cliente.
-  7. Governança: Auditoria baseada em nuvem, que ajuda a identificar recursos fora de padrão e definir estatrégias de mitigação.
-  8. Gerenciabilidade: Facilidade na gestão de recursos através de Portal, linha de comando, API, PowerShell.
+1. Alta disponibilidade: Garantia de disponibilidade através do SLA (Service Level Agreement), com acordos de uptime e downtime.
+2. Escalabilidade: Possibilidade de escalar recursos de acordo com a demanda.
+3. Elasticidade: Possibilidade de expandir recursos de acordo com a demanda.
+4. Confiabilidade: Devido ao design descentralizado da nuvem, recursos podem ser implantados em diversos regiões, garantindo menores riscos.
+5. Previsibilidade: Avanços previsíveis no desempenho e custo, influenciados pelo Microsoft Azure Well-Architected Framework.
+6. Segurança: A nuvem oferece ferramentas de segurança, porém a implementação de muitas delas serão de responsabilidade do cliente.
+7. Governança: Auditoria baseada em nuvem, que ajuda a identificar recursos fora de padrão e definir estatrégias de mitigação.
+8. Gerenciabilidade: Facilidade na gestão de recursos através de Portal, linha de comando, API, PowerShell.
