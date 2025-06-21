@@ -13,7 +13,7 @@ Entregável da Formação Microsoft AZ-900 da DIO
 - OPEX: Despesas Operacionais. Um gasto recorrente com produtos e serviços conforme necessário.
 ### Modelo baseado em consumo
 Onde o usuário paga pelo que utilizar, possibilitando melhor previsão de custos.
-### Apresentação Portal Microsoft Azure
+### Portal Microsoft Azure
 - O portal acessado é o mesmo para todos os clientes. Porém, há serviços indispoíveis para contas free-tier.
 - É possível alterar configurações de aparência e idioma nas configurações do portal.
 - Em todos os serviços -> categorias, é possível visualizar todos os recursos disponíveis da Azure separados por categorias, como Computação, Banco de Dados, Rede e Armazenamento.
