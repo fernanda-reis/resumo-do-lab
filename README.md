@@ -1,7 +1,7 @@
-# resumo-do-lab
+# resumo
 Entregável da Formação Microsoft AZ-900 da DIO
 
-## lab 1.
+## 1.
 ### Computação em Nuvem
 É o fornecimento de serviços de computação pela intenet, possibilitando recursos escaláveis e maior economia.
 ### Tipos de nuvem
@@ -18,7 +18,7 @@ Onde o usuário paga pelo que utilizar, possibilitando melhor previsão de custo
 - É possível alterar configurações de aparência e idioma nas configurações do portal.
 - Em todos os serviços -> categorias, é possível visualizar todos os recursos disponíveis da Azure separados por categorias, como Computação, Banco de Dados, Rede e Armazenamento.
 
-## lab 2.
+## 2.
 ### Benefícios da nuvem
 1. Alta disponibilidade: Garantia de disponibilidade através do SLA (Service Level Agreement), com acordos de uptime e downtime.
 2. Escalabilidade: Possibilidade de escalar recursos de acordo com a demanda.
@@ -28,3 +28,9 @@ Onde o usuário paga pelo que utilizar, possibilitando melhor previsão de custo
 6. Segurança: A nuvem oferece ferramentas de segurança, porém a implementação de muitas delas serão de responsabilidade do cliente.
 7. Governança: Auditoria baseada em nuvem, que ajuda a identificar recursos fora de padrão e definir estatrégias de mitigação.
 8. Gerenciabilidade: Facilidade na gestão de recursos através de Portal, linha de comando, API, PowerShell.
+
+## 3.
+### Tipos de serviço de nuvem
+- IaaS (Infraestrutura como serviço): Modelo mais flexível. A maior parte da configuração, gerenciamento e manutenção de recursos de infraestrutura em nuvem são responsabilidade do cliente.
+- PaaS (Plataforma como serviço): Modelo focado em aplicativos. Oferece um ambiente para criação, teste e implantação de aplicativos sem necessidade de preocupação com a infraestrutura.
+- Saas (Software como serviço): Aplicativos prontos hospedados que oferecem modelo de licenciamento/assinaturas para utilização.
